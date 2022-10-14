@@ -5,4 +5,5 @@
 - [AddAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/AddAB.java)  : 두 변수를 합함.  
 - [MinusAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/MinusAB.java): 두 변수를 뺌.  
 - [MultiplyAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/MultiplyAB.java): 두 변수를 곱함.  
-- [DivisionAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/DivisionAB.java): 두 변수를 나눔.
+- [DivisionAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/DivisionAB.java): 두 변수를 나눔.  
+- [Math.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/Math.java): 두 변수의 사칙연산.
