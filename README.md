@@ -10,5 +10,7 @@
 - [DivisionAB.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/DivisionAB.java): 두 변수를 나눔.
 - [Math.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/Math.java): 두 변수의 사칙연산.
 - [Joonas.java](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/Joonas.java): 입출력 응용.
+
+🧡[3단계 반복문](https://github.com/Ryuyeonjoo/study_javas/tree/master/src/Step3) 
 - [Plus](https://github.com/Ryuyeonjoo/study_javas/blob/master/src/Plus.java): 반복문 이용하여 두 변수를 합함.
 
