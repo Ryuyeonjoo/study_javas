@@ -1,6 +1,8 @@
+package Step1;
+
 import java.util.Scanner;
 
-public class adfadf {
+public class Test10430 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  //문제

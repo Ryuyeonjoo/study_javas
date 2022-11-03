@@ -1,3 +1,5 @@
+package Step1;
+
 import java.util.Scanner;
 public class Year{
     public static void main(String[] args){  
